@@ -1,0 +1,2 @@
+# plist
+download ipa
