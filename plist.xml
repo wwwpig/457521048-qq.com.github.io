@@ -8,12 +8,12 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.1.18/string>
+                    <string>http://192.168.1.61/string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
-                <key>tradekjgj</key>
+                <key>tradebhtx</key>
                 <string>com.XXX.XXX</string>
                 <key>3.3.15.37.10</key>
                 <string>1.00</string>
@@ -21,7 +21,7 @@
                 <string>software</string>
                 <key>releaseNotes</key>
                 <string>测试OTA</string>
-                <key>凯嘉国际</key>
+                <key>bhtx</key>
                 <string>在线安装测试</string>
             </dict>
         </dict>
